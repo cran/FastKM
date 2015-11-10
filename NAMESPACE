@@ -1,0 +1,10 @@
+export("KITkernel",
+       "KITdesign",
+       "geno",
+       "nongeno")
+import("rARPACK",
+       "stats",
+       "methods")
+exportClasses("geno",
+              "nongeno")
+
