@@ -11,15 +11,15 @@ A computationally efficient and statistically rigorous fast Kernel Machine metho
 \tabular{ll}{
 Package: \tab FastKM\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-10-26\cr
+Version: \tab 1.1\cr
+Date: \tab 2022-06-05\cr
 License: \tab GPL-2\cr
 }
 }
 \author{
 Shannon T. Holloway, Rachel Marceau, Wenbin Lu, Michele M. Sale, Bradford B. Worrall, Stephen R. Williams, Fang-Chi Hsu, and Jung-Ying Tzeng
 
-Maintainer: Shannon T. Holloway <sthollow@ncsu.edu>
+Maintainer: Shannon T. Holloway <shannon.t.holloway@gmail.com>
 }
 \references{
 Marceau, R., Lu, W., Holloway, S. T., Sale, M. M., Worrall, B. B., Williams, S. R., Hsu, F-C., and Tzeng, J-Y. (2015). 

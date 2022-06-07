@@ -60,7 +60,7 @@ If missing values are provided in matA, matB, matC, y, or x, individuals with mi
 
 The function SKAT_Null_Model and SKAT of the 'SKAT' R package are used to obtain p-values for continuous and dichotomous traits. For survival traits, Surv and coxph of the 'survival' package and coxKM of the R package 'coxKM' are used. The ellipsis in the call to KITdesign can be used to adjust the default setting of the Kernel Machine methods and coxph. At the time of this documentation, coxph and coxKM have an overlap in argument names, namely 'weights.'  If weights are provided by user through the ellipsis, it is assumed that this refers to coxph.
 
-At the time of writing this documentation, the R package 'coxKM' is not available through the CRAN repository, but can be obtained from http://www.hsph.harvard.edu/xlin/software.html. This package is only required to be installed if survival traits are analyzed. Only version 0.3 and above of coxKM can be used with this package.
+At the time of writing this documentation, the R package 'coxKM' is not available through the CRAN repository, but can be obtained from <https://github.com/lin-lab/coxKM>. This package is only required to be installed if survival traits are analyzed. Only version 0.3 and above of coxKM can be used with this package.
 
 The algorithm maintains the highest possible proportion of variability in both kernel matrices. 
 }
@@ -77,7 +77,7 @@ Marceau, R., Lu, W., Holloway, S. T., Sale, M. M., Worrall, B. B., Williams, S. 
 A Fast Multiple-Kernel Method with Applications to Detect Gene-Environment Interaction. Genetic Epidemiology, 39, 456-468.
 }
 \author{
-Shannon Holloway, Rachel Marceau, Wenbin Lu, Michele M. Sale, Bradford B. Worrall, Stephen R. Williams, Fang-Chi Hsu, and Jung-Ying Tzeng.
+Shannon T. Holloway, Rachel Marceau, Wenbin Lu, Michele M. Sale, Bradford B. Worrall, Stephen R. Williams, Fang-Chi Hsu, and Jung-Ying Tzeng.
 }
 \examples{
 
