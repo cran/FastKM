@@ -16,7 +16,7 @@ geno(mat, kernel = "linear", weights = NULL, inheritMode = NA)
              can be coded as either 9 or NA.
             }
   \item{kernel}{Character object indicating type of kernel. 
-                Must be one of {'ibs', 'linear', 'quadratic'}.
+                Must be one of ('ibs', 'linear', 'quadratic').
                 For linear kernel, the constant is taken to
                 be zero; for quadratic kernel, it is one.
                }
@@ -28,7 +28,7 @@ geno(mat, kernel = "linear", weights = NULL, inheritMode = NA)
   \item{inheritMode}{For two-column-per-marker format, the
                      inheritance mode to be used to convert to
                      one-column-per-marker format. Must be one of
-                     {'add', 'dom', 'rec'} indicating additive,
+                     ('add', 'dom', 'rec') indicating additive,
                      dominant, or recessive, respectively.
                     }
 }

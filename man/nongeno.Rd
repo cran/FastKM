@@ -11,7 +11,7 @@ nongeno(mat, kernel = "linear", weights = NULL)
 \arguments{
   \item{mat}{Design matrix. Missing values must be coded as NA.}
   \item{kernel}{Type of kernel. 
-                Must be one of {'interactive', 'linear', 'quadratic'}.
+                Must be one of ('interactive', 'linear', 'quadratic').
                 For linear kernel, the constant is taken to
                 be zero; for quadratic kernel, it is one.
                }

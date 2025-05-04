@@ -48,7 +48,7 @@ KITkernel(y, kmatA, kmatB, kmatC = NULL, x = NULL,
                  the constant terms when generating kmatA x kmatB
                  kernel.}
 
- \item{trait}{One of {'c','d','s',NULL} indicating the type
+ \item{trait}{One of ('c','d','s', NULL) indicating the type
           of trait given in input y, where 'c' = continuous,
           'd' = dichotomous, and 's' = survival. If NULL, the software 
           will deduce the trait type using the following logic:

@@ -1,5 +1,6 @@
-a651206690cb2865b90e267cd55b7f24 *DESCRIPTION
+749448997a9de4bf6f6f7be1c1511810 *DESCRIPTION
 ea1f4f35c44b7783d5f2d2fd500dea9c *NAMESPACE
+cc19949bc51283da6792550c647284c2 *NEWS
 c17f696f6a3f16834295908fa1a4ee09 *R/A01Classes.R
 a1c42cbd3c3790e30595350aea86fac8 *R/KITdesignObj.R
 cb5ce769a8efb865adf8ba9c20980244 *R/KITkernel.R
@@ -16,9 +17,9 @@ e22f3477d067eb502901a983993b5828 *R/processWgts.R
 1b4dd1be95d4f14b180a0ef902880db6 *R/toSNP.R
 ed72a011901d733ee9a1914924ad62e1 *R/zzz.R
 e3583a577c99a110fc9345d9fae9ee88 *man/FastKM-package.Rd
-fd3079346c077b80b4e9b668fc04dcad *man/KITdesign.Rd
-1f3acf99b54482866ef67c16ea31dc0e *man/KITkernel.Rd
+628b71b46e18f3f258c6674b5fc32815 *man/KITdesign.Rd
+d61cd313acb45b5d5f5bc4af1056794f *man/KITkernel.Rd
 b6ed406d4777bfc39d95b8532e3bca2a *man/geno-class.Rd
-1ea88b5102eb1a570ddab3883597872a *man/geno.Rd
+4929fe5995c2a37fe8c6e5369baa3a9d *man/geno.Rd
 245315d7e17a5b8ccddbbb3b21b624e1 *man/nongeno-class.Rd
-85e1cc4caca6e5eda7f202ddc2003453 *man/nongeno.Rd
+3cab452588cb5cdfc6597adfd88a19ec *man/nongeno.Rd

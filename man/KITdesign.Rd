@@ -33,7 +33,7 @@ KITdesign(y, matA, matB, matC=NULL, x=NULL, trait=NULL, delta=NULL,
           covariates that are not included in either design
           matrix specified in matA or matB.}
 
- \item{trait}{One of {'c','d','s',NULL} indicating the type
+ \item{trait}{One of ('c','d','s', NULL) indicating the type
           of trait given in input y, where 'c' = continuous,
           'd' = dichotomous, and 's' = survival. If NULL, the software 
           will deduce the trait type using the following logic:
